@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263705851624",
+    "project_id": "kuryemappnew",
+    "storage_bucket": "kuryemappnew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263705851624:android:94f2becebd7d2aaa9bbb5d",
+        "android_client_info": {
+          "package_name": "com.example.kuryem_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEE3rnpXz_WrcyQrSJgVR_BHgVVdpoHiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA0UUUoN5gWMC2AbQ9R_nXBK2uhEMKLyQk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>263705851624</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kuryemApp</string>
+	<key>PROJECT_ID</key>
+	<string>kuryemappnew</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kuryemappnew.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:263705851624:ios:6b4ba2fa7343993d9bbb5d</string>
+</dict>
+</plist>
